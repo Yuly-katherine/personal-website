@@ -34,12 +34,15 @@
               <p class="text-white">Feb 2021 - Actual</p>
               <div class="mt-4 h-0.5 w-16 bg-gradient-to-r from-[#f59e0b] to-[#ec4899] rounded-full"></div>
               <ul class="mt-4 list-disc list-inside space-y-2 text-gray-300">
-                <li>Build web interfaces with Vue, Vuex, JavaScript, HTML and CSS/SASS.</li>
-                <li>Adapt applications for different devices and browsers.</li>
-                <li>Improve user experience and implement reusable components.</li>
-                <li>Optimize performance and manage versions with Git/GitHub.</li>
-                <li>Integrate frontend with backend services ensuring correct data flow.</li>
-                <li>Implement WebSockets for real time notifications.</li>
+                <li>Writing clean, maintainable, and scalable HTML, CSS, and JavaScript/TypeScript code.</li>
+                <li>Building interactive user interfaces with frameworks such as Vue.js and React.</li>
+                <li>Adapting applications for different devices and browsers.</li>
+                <li>Improving user experience by implementing reusable and efficient components.</li>
+                <li>Optimizing performance and managing versions with Git/GitHub.</li>
+                <li>Integrating frontend with backend services to ensure proper data flow.</li>
+                <li>Implementing WebSockets for real-time communication and notifications.</li>
+                <li>Applying front-end testing frameworks to ensure code quality.</li>
+                <li>Collaborating with cross-functional teams for UI/UX design.</li>
               </ul>
             </div>
           </div>

@@ -120,9 +120,10 @@ const cards = ref([
       "Pokedex is a web application built with Vue that allows users to explore a list of Pokemons, view detailed information about each one and mark their favorites. It includes a filter to show only favorite Pokemon, improving user interaction. The project also integrates Vitest for unit testing, ensuring reliable and maintainable code.",
     img: "pokedex.png",
     alt:"favoritePokemon",
-    technologies: ['Vue', 'JavaScript'],
+    technologies: ['Vue', 'JavaScript', 'Vitest'],
     github:"https://github.com/Yuly-katherine/pokedex-app",
     link: "https://yuly-katherine.github.io/pokedex-app/"
   },
 ]);
+
 </script>
