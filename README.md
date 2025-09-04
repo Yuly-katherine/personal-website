@@ -32,4 +32,7 @@ Portafolio personal desarrollado con Vue.js y Tailwind CSS, donde muestro mis ha
    ```bash
    npm run dev
    ```   
-   
+
+ ##  Inspirado en:
+
+ Diseño inspirado en  OualiCode(https://linktr.ee/oualicode).
