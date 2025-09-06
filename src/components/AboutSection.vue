@@ -31,7 +31,7 @@
                 Frontend Developer
               </h3>
               <p class="text-white">Guane Enterprises</p>
-              <p class="text-white">Feb 2021 - Actual</p>
+              <p class="text-white">Feb 2021 - Aug 2025</p>
               <div class="mt-4 h-0.5 w-16 bg-gradient-to-r from-[#f59e0b] to-[#ec4899] rounded-full"></div>
               <ul class="mt-4 list-disc list-inside space-y-2 text-gray-300">
                 <li>Writing clean, maintainable, and scalable HTML, CSS, and JavaScript/TypeScript code.</li>
